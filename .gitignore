@@ -1,0 +1,5 @@
+# .gitignore para C++
+build/
+*.exe
+*.out
+*.o
